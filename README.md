@@ -113,3 +113,8 @@ lab7.exe MIPS.asm
 - Data section starts at offset `0x2000` (8KB into memory)
 - Code section starts at offset `0x0000` (beginning of memory)
 - Little-endian byte ordering is used throughout
+
+---
+
+## GitHub Repository
+[https://github.com/SolomonEwusi9373/SolomonEwusiCENG356-Lab7](https://github.com/SolomonEwusi9373/SolomonEwusiCENG356-Lab7)
